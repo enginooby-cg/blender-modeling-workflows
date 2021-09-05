@@ -8,4 +8,5 @@
 # Details
 <div align="center">
   <img src="Details/Notch Edge/output.PNG" width="200" height="200">
+  <img src="Details/Notch Vertex/output.PNG" width="200" height="200">
 </div>
